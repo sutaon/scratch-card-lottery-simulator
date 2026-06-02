@@ -3398,8 +3398,6 @@ def generate_scratch_card(
     output.parent.mkdir(parents=True, exist_ok=True)
 
     image_path = resource_path("Picture", "frontPicture", "i_love_china_mid_uncovered_clear.png")
-    font_number_path = resource_path("Front", "Number.ttf")
-    font_pinyin_path = resource_path("Front", "Pinyin.ttf")
 
     image = Image.open(image_path).convert("RGBA")
     scale = max(1.0, float(scale))
@@ -3407,9 +3405,9 @@ def generate_scratch_card(
         image = image.resize((int(image.width * scale), int(image.height * scale)), Image.Resampling.LANCZOS)
     draw = ImageDraw.Draw(image)
 
-    font_number = ImageFont.truetype(str(font_number_path), max(1, int(21 * scale)))
-    font_pinyin = ImageFont.truetype(str(font_pinyin_path), max(1, int(8 * scale)))
-    font_money = ImageFont.truetype(str(font_pinyin_path), max(1, int(12 * scale)))
+    font_number = load_ticket_font(max(1, int(21 * scale)), role="number")
+    font_pinyin = load_ticket_font(max(1, int(8 * scale)), role="pinyin")
+    font_money = load_ticket_font(max(1, int(12 * scale)), role="pinyin")
 
     number_pinyin_dict = load_json_resource("Datarecourses", "Number.txt")
     winning_dict = load_json_resource("Datarecourses", "Winning.txt")
@@ -4493,9 +4491,14 @@ def main_game(
     def load_font(size: int, bold: bool = False):
         name = "MSYHBD.TTC" if bold else "MSYH.TTC"
         font_path = resource_path("Front", name)
-        if not font_path.exists():
-            font_path = resource_path("Front", "MSYHBD.TTC")
-        return pygame.font.Font(str(font_path), size)
+        fallback_path = resource_path("Front", "MSYHBD.TTC")
+        for path in (font_path, fallback_path):
+            if path.exists():
+                try:
+                    return pygame.font.Font(str(path), size)
+                except (FileNotFoundError, OSError):
+                    continue
+        return pygame.font.Font(None, size)
 
     def fit_pygame_font(text: str, max_width: int, start_size: int, min_size: int = 18, bold: bool = True):
         size = start_size
