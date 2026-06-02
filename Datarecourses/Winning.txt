@@ -1,0 +1,12 @@
+{
+  "20": "ERSHI",
+  "30": "SANSHI",
+  "50": "WUSHI",
+  "100": "YIBAI",
+  "600": "LIUBAI",
+  "1,000": "YIQIAN",
+  "1,200": "YIQIANER",
+  "1,500": "YIQIANWU",
+  "10,000": "YIWAN",
+  "250,000": "ERWUWAN"
+}

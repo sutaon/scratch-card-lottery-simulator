@@ -1,0 +1,4046 @@
+{
+  "source": "https://www.lottery.gov.cn/push/xdgg/dgg.pdata",
+  "downloadedAt": "2026-05-30 23:37:07",
+  "faceValues": "2元,3元,5元,10元,20元,30元,50元",
+  "tickets": [
+    {
+      "id": 211,
+      "name": "新春大吉2026",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 39,
+      "layout": 2,
+      "tpl": 7,
+      "tag": "新产品",
+      "description": "马年新春大吉！",
+      "introduce": "数字匹配+找奖金符号+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n玩法二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现“马”标志，即中得该标志下方所示奖金的两倍；如果出现“大吉”标志，即中得该标志下方所示奖金的5倍。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50
+      ],
+      "productImg": "Picture/ticketTypes/211_新春大吉2026_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/211_新春大吉2026_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/211_新春大吉2026_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/211_新春大吉2026_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/211_新春大吉2026_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/211_新春大吉2026_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/211_新春大吉2026_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "抢头彩2026",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 30,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "马年新春抢头彩！",
+      "introduce": "数字匹配+找奖金符号+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n玩法二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现“头彩”标志，即中得该标志下方所示奖金的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30
+      ],
+      "productImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/210_抢头彩2026_30yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "name": "马到成功",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 25,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "新的一年，马到成功！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现“马”标志，即中得该标志下方所示的奖金；如果出现“祥云”标志，即中得该标志下方所示奖金的两倍；如果出现“成功”标志，即中得刮开区内所示的25个奖金之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/209_马到成功_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/209_马到成功_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/209_马到成功_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/209_马到成功_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/209_马到成功_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/209_马到成功_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/209_马到成功_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/209_马到成功_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/209_马到成功_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/209_马到成功_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/209_马到成功_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/209_马到成功_20yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "name": "骏马贺岁",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 300000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "骏马贺新岁！",
+      "introduce": "两同+找中奖符号",
+      "gameRule": "刮开覆盖膜，在任意一场游戏中，如果出现两个相同的“马”标志，即中得该场游戏右方所示的奖金；如果出现“灯笼”标志，即中得该场游戏右方所示奖金的3倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        300000,
+        10000,
+        5000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/208_骏马贺岁_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/208_骏马贺岁_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/208_骏马贺岁_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/208_骏马贺岁_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/208_骏马贺岁_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/208_骏马贺岁_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/208_骏马贺岁_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "name": "午马",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "新产品",
+      "description": "马年马力全开！",
+      "introduce": "找奖金符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5
+      ],
+      "productImg": "Picture/ticketTypes/207_午马_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/207_午马_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/207_午马_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/207_午马_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/207_午马_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/207_午马_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/207_午马_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "激情全运",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 21,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "助力体育赛事，喜迎十五运会！",
+      "introduce": "数字匹配",
+      "gameRule": "主玩法：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现“十五运会”标志，即中得该标志下方所示奖金的两倍。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        100,
+        80,
+        60,
+        40,
+        20
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/206_激情全运_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/206_激情全运_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/206_激情全运_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/206_激情全运_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/206_激情全运_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/206_激情全运_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/206_激情全运_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "name": "八段锦",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 80000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 7,
+      "tag": "新产品",
+      "description": "古法健身，八段锦！",
+      "introduce": "数字匹配",
+      "gameRule": "刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        80000,
+        8000,
+        1000,
+        800,
+        200,
+        100,
+        80,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/205_八段锦_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/205_八段锦_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/205_八段锦_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/205_八段锦_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/205_八段锦_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/205_八段锦_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/205_八段锦_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "name": "体育科普 即刻出彩II",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "体育知识，看我科普！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现“出彩”标志，即中得该标志下方所示的奖金；如果出现倍数标志 “2倍 ”、“5倍 ”，即中得该标志下方所示的奖金乘以该倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/204_体育科普_即刻出彩II_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "说走就走III",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 13,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "自在随心，说走就走！",
+      "introduce": "找奖金符号+多同",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n幸运玩法：刮开覆盖膜，如果出现两个相同的标志，即中得幸运玩法区内所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1600,
+        800,
+        400,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/203_说走就走III_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/203_说走就走III_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/203_说走就走III_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/203_说走就走III_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/203_说走就走III_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/203_说走就走III_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/203_说走就走III_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "珍稀宝贝",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "别让珍贵变稀有！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现“宝贝”标志，即中得该标志下方所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/202_珍稀宝贝_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/202_珍稀宝贝_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/202_珍稀宝贝_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/202_珍稀宝贝_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/202_珍稀宝贝_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/202_珍稀宝贝_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/202_珍稀宝贝_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "好运全开",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 100000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "好运全开",
+      "introduce": "找奖金符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/201_好运全开_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/201_好运全开_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_05_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_06_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_06_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_06_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_06_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_06_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_07_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_07_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_07_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_07_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_07_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_08_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_08_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_08_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_08_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_08_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_09_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_09_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_09_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_09_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_09_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_10_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_10_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_10_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_10_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_10_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_11_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_11_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_11_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_11_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_11_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/201_好运全开_10yuan/theme_12_a.png",
+          "backgroundB": "Picture/ticketTypes/201_好运全开_10yuan/theme_12_covered.png",
+          "backgroundC": "Picture/ticketTypes/201_好运全开_10yuan/theme_12_c.png",
+          "notAwardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_12_not_award.png",
+          "awardImg": "Picture/ticketTypes/201_好运全开_10yuan/theme_12_award.png"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "嘶嘶大闯关",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "嘶嘶大闯关，快乐顶呱刮！",
+      "introduce": "找奖金符号+集中奖符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n主玩法中奖奖金兼中兼得。\n附加玩法：刮开覆盖膜，如果出现5个或5个以上元宝标志，即中得奖金对照表（详见票面）中所对应的奖金。附加玩法中奖奖金不可兼中兼得。\n总中奖奖金=主玩法中奖奖金+附加玩法中奖奖金。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/200_嘶嘶大闯关_20yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "麒麟王",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 18,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "麒麟献祥瑞！",
+      "introduce": "数字匹配",
+      "gameRule": "刮开覆盖膜，如果你的号码中任意一个号码与中奖号码相同，即中得该号码下方所示的奖金；如果你的号码中任意一个号码与翻倍号码相同，即中得该号码下方所示奖金的两倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        40
+      ],
+      "productImg": "Picture/ticketTypes/199_麒麟王_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/199_麒麟王_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/199_麒麟王_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/199_麒麟王_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/199_麒麟王_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/199_麒麟王_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/199_麒麟王_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "行大运",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 35,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "发现惊喜，一起行大运！",
+      "introduce": "找奖金符号+多同+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金乘以所对应的倍数。\n玩法二：刮开覆盖膜，在任意一场游戏中，如果出现两个相同的号码，即中得该场游戏所示的奖金；如果出现倍数对照表（详见票面）中所示的标志，即中得该场游戏所示的奖金乘以所对应的倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        600,
+        200,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50
+      ],
+      "productImg": "Picture/ticketTypes/195_行大运_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/195_行大运_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/195_行大运_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/195_行大运_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/195_行大运_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/195_行大运_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/195_行大运_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "行大运",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 28,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "发现惊喜，一起行大运！",
+      "introduce": "找奖金符号+多同+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金乘以所对应的倍数。\n玩法二：刮开覆盖膜，在任意一场游戏中，如果出现两个相同的号码，即中得该场游戏所示的奖金；如果出现倍数对照表（详见票面）中所示的标志，即中得该场游戏所示的奖金乘以所对应的倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30
+      ],
+      "productImg": "Picture/ticketTypes/196_行大运_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/196_行大运_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/196_行大运_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/196_行大运_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/196_行大运_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/196_行大运_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/196_行大运_30yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "行大运",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 18,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "发现惊喜，一起行大运！",
+      "introduce": "找奖金符号+多同+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金乘以所对应的倍数。\n玩法二：刮开覆盖膜，在任意一场游戏中，如果出现两个相同的号码，即中得该场游戏所示的奖金；如果出现倍数对照表（详见票面）中所示的标志，即中得该场游戏所示的奖金乘以所对应的倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/197_行大运_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/197_行大运_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/197_行大运_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/197_行大运_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/197_行大运_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/197_行大运_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/197_行大运_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "name": "行大运",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "新产品",
+      "description": "发现惊喜，一起行大运！",
+      "introduce": "找奖金符号+多同+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金乘以所对应的倍数。\n玩法二：刮开覆盖膜，在任意一场游戏中，如果出现两个相同的号码，即中得该场游戏所示的奖金；如果出现倍数对照表（详见票面）中所示的标志，即中得该场游戏所示的奖金乘以所对应的倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/198_行大运_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/198_行大运_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/198_行大运_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/198_行大运_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/198_行大运_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/198_行大运_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/198_行大运_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "红包来啦 让好事发生2025",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 88000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "红包来啦，让好事发生！",
+      "introduce": "找奖金符号+收集中奖符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。主玩法中奖奖金兼中兼得。\n附加玩法：刮开覆盖膜，如果出现一个或一个以上红包标志，即中得右方奖金对照表中所对应的奖金。附加玩法中奖奖金不可兼中兼得。\n总中奖奖金=主玩法中奖奖金+附加玩法中奖奖金",
+      "awardGrade": [
+        88000,
+        8000,
+        800,
+        300,
+        100,
+        80,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/194_红包来啦_让好事发生2025_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "巳蛇",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 8,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "新产品",
+      "description": "巳蛇齐聚，招财进宝！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金；如果出现蛇标志，即中得20元。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5
+      ],
+      "productImg": "Picture/ticketTypes/193_巳蛇_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/193_巳蛇_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/193_巳蛇_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/193_巳蛇_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/193_巳蛇_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/193_巳蛇_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/193_巳蛇_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "灵蛇贺岁",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 300000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "蛇年新春，灵蛇齐贺岁！",
+      "introduce": "两同+找中奖符号",
+      "gameRule": "刮开覆盖膜，在任意一场游戏中，如果出现两个相同的蛇标志，即中得该场游戏右方所示的奖金；如果出现灯笼标志，即中得该场游戏右方所示奖金的3倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        300000,
+        10000,
+        5000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10
+      ],
+      "productImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/192_灵蛇贺岁_10yuan/theme_04_award.png"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "灵蛇献瑞",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "体彩顶呱刮，灵蛇献祥瑞！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现蛇标志，即中得该标志下方所示的奖金；如果出现葫芦标志，即中得该标志下方所示奖金的两倍；如果出现中国结标志，即中得刮开区内所有的奖金之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20
+      ],
+      "productImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/191_灵蛇献瑞_20yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "抢头彩2025",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 26,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "蛇年新春，抢个好彩头！",
+      "introduce": "数字匹配+找奖金符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现头彩标志，即中得该标志下方所示奖金的两倍。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30
+      ],
+      "productImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/190_抢头彩2025_30yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "新春大吉2025",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 41,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "蛇年新春大吉！",
+      "introduce": "数字匹配+找奖金符号+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n玩法二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现蛇标志，即中得该标志下方所示奖金的两倍；如果出现大吉标志，即中得该标志下方所示奖金的5倍。\n幸运玩法：刮开覆盖膜，如果出现新春标志，即中得该标志下方所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50
+      ],
+      "productImg": "Picture/ticketTypes/189_新春大吉2025_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/189_新春大吉2025_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/189_新春大吉2025_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/189_新春大吉2025_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/189_新春大吉2025_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/189_新春大吉2025_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/189_新春大吉2025_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "为中国力量加油2024",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 18,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,特色产品",
+      "description": "一起为中国力量加油！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现赢标志，即中得该标志下方所示的奖金；如果出现奖牌标志，即中得该标志下方所示奖金的两倍。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/product.png",
+      "backImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/188_为中国力量加油2024_20yuan/theme_05_award.png"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "红包来啦 让好事发生2024",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 88000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,特色产品",
+      "description": "包个“红包”，让好事发生！",
+      "introduce": "找奖金符号+搜集中奖符号\n",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。主玩法中奖奖金兼中兼得。\n附加玩法：刮开覆盖膜，如果出现一个或一个以上红包标志，即中得右方奖金对照表中所对应的奖金。附加玩法中奖奖金不可兼中兼得。\n总中奖奖金=主玩法中奖奖金+附加玩法中奖奖金\n奖级对照表详见票背",
+      "awardGrade": [
+        88000,
+        8000,
+        800,
+        300,
+        100,
+        80,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/187_红包来啦_让好事发生2024_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "辰龙",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "新产品,畅销产品",
+      "description": "集齐9张，召唤神龙！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金；如果出现龙标志，即中得20元。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        30,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5,
+        10,
+        20,
+        30,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/186_辰龙_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/186_辰龙_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/186_辰龙_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/186_辰龙_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/186_辰龙_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/186_辰龙_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/186_辰龙_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "祥龙贺岁",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 300000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,畅销产品",
+      "description": "体彩顶呱刮携祥龙同贺岁！",
+      "introduce": "两同+找中奖符号",
+      "gameRule": "刮开覆盖膜，在任意一场游戏中，如果出现两个相同的龙标志，即中得该场游戏右方所示的奖金；如果出现灯笼标志，即中得该场游戏右方所示奖金的3倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        300000,
+        10000,
+        5000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/185_祥龙贺岁_10yuan/theme_04_award.png"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "龙行大运",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,畅销产品",
+      "description": "体彩顶呱刮，龙年行大运！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现龙标志，即中得该标志下方所示的奖金；如果出现龙珠标志，即中得该标志下方所示奖金的两倍；如果出现大运标志，即中得刮开区内所有的奖金之和。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/184_龙行大运_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/184_龙行大运_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/184_龙行大运_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/184_龙行大运_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/184_龙行大运_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/184_龙行大运_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/184_龙行大运_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/184_龙行大运_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/184_龙行大运_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/184_龙行大运_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/184_龙行大运_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/184_龙行大运_20yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "抢头彩2024",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 26,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,畅销产品",
+      "description": "龙年抢头彩，就在体彩顶呱刮！",
+      "introduce": "数字匹配+找奖金符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现头彩标志，即中得该标志下方所示奖金的两倍。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30,
+        50,
+        100,
+        200,
+        500,
+        800
+      ],
+      "productImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/183_抢头彩2024_30yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "新春大吉2024",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 41,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,畅销产品",
+      "description": "龙年新春大吉！",
+      "introduce": "找奖金符号+数字匹配+找中奖符号",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n玩法二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现龙标志，即中得该标志下方所示奖金的两倍；如果出现大吉标志，即中得该标志下方所示奖金的5倍。\n幸运玩法：刮开覆盖膜，如果出现新春标志，即中得该标志下方所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50,
+        100,
+        150,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/182_新春大吉2024_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/182_新春大吉2024_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/182_新春大吉2024_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/182_新春大吉2024_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/182_新春大吉2024_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/182_新春大吉2024_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/182_新春大吉2024_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "name": "射门得奖",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "射门得奖，看你是梅开二度，还是上演帽子戏法！",
+      "introduce": "找中奖符号+比大小",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现进球标志，即中得该标志下方所示的奖金；如果出现梅开二度标志，即中得该标志下方所示奖金的两倍；如果出现帽子戏法标志，即中得该标志下方所示奖金的3倍。\n玩法二：刮开覆盖膜，在任意一场游戏中，如果你的进球数大于对手进球数，即中得该场游戏中间所示的奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/181_射门得奖_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/181_射门得奖_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/181_射门得奖_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/181_射门得奖_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/181_射门得奖_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/181_射门得奖_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/181_射门得奖_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "上冰雪 尽情嗨",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品,特色产品",
+      "description": "冬天有冰雪，才能尽情嗨！",
+      "introduce": "找奖金符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金；如果出现嗨标志“ 嗨 ”，即中得100元。中奖奖金兼中兼得。 ",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        100,
+        50,
+        30,
+        20,
+        15,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/180_上冰雪_尽情嗨_10yuan/theme_05_award.png"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "name": "艺彩中华",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 100000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 7,
+      "tag": "特色产品",
+      "description": "探寻艺术之旅，谱写五彩华章！",
+      "introduce": "找奖金符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金；如果出现艺标志，即中得50元。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/179_艺彩中华_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/179_艺彩中华_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/179_艺彩中华_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/179_艺彩中华_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/179_艺彩中华_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/179_艺彩中华_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/179_艺彩中华_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "我爱中国2023",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "我爱中国，历久弥坚！",
+      "introduce": "数字匹配+找中奖符号",
+      "gameRule": "刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现爱心标志“爱心”，即中得该标志下方所示奖金的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        600,
+        300,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        600
+      ],
+      "productImg": "Picture/ticketTypes/178_我爱中国2023_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/178_我爱中国2023_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/178_我爱中国2023_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/178_我爱中国2023_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/178_我爱中国2023_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/178_我爱中国2023_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/178_我爱中国2023_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "接好运",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 40,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "一起接好运啦！",
+      "introduce": "找奖金符号+数字匹配+通吃",
+      "gameRule": "玩法一：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n玩法二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现幸运星标志“幸运星”，即中得该标志下方所示奖金的两倍；如果出现锦鲤标志“锦鲤”，即中得该标志下方所示奖金的10倍；如果在“全中”区出现运标志“运”，即中得玩法二刮开区内所示的35个奖金之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        50000,
+        10000,
+        5000,
+        1000,
+        800,
+        600,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50,
+        100,
+        150,
+        600,
+        800,
+        1000
+      ],
+      "productImg": "Picture/ticketTypes/177_接好运_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/177_接好运_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/177_接好运_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/177_接好运_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/177_接好运_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/177_接好运_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/177_接好运_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "接好运",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "一起接好运啦！",
+      "introduce": "数字匹配",
+      "gameRule": "刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果出现幸运星标志“幸运星”，即中得该标志下方所示奖金的两倍；如果在“全中”区出现运标志“运”，即中得刮开区内所示的20个奖金之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        50000,
+        5000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        400,
+        600
+      ],
+      "productImg": "Picture/ticketTypes/176_接好运_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/176_接好运_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/176_接好运_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/176_接好运_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/176_接好运_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/176_接好运_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/176_接好运_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "接好运",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "一起接好运啦！",
+      "introduce": "数字匹配",
+      "gameRule": "刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金；如果在“全中”区出现运标志“运”，即中得刮开区内所示的12个奖金之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        5000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        400
+      ],
+      "productImg": "Picture/ticketTypes/175_接好运_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/175_接好运_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/175_接好运_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/175_接好运_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/175_接好运_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/175_接好运_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/175_接好运_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "为中国力量加油 亚运会",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 21,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "为中国力量加油！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "幸运游戏：刮开覆盖膜，如果出现金额标志，即中得该金额。\n主游戏：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的金额；如果出现加油标志“ 加油 ”，即中得该标志下方所示金额的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_05_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_06_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_06_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_06_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_06_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_06_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_07_a.png",
+          "backgroundB": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_07_covered.png",
+          "backgroundC": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_07_c.png",
+          "notAwardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_07_not_award.png",
+          "awardImg": "Picture/ticketTypes/174_为中国力量加油_亚运会_20yuan/theme_07_award.png"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "锦鲤大王",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "刮锦鲤大王，做幸运之王！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现锦鲤标志“锦鲤”，即中得该标志下方所示的奖金；如果出现王冠标志“王冠”，即中得该标志下方所示奖金的5倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/173_锦鲤大王_20yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "国宝III",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 18,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "有国宝，世界更精彩！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现国宝标志“国宝”，即中得该标志下方所示的奖金；如果出现顶呱刮标志“顶呱刮”，即中得该标志下方所示奖金的5倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        10000,
+        3000,
+        600,
+        400,
+        100,
+        60,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        60,
+        100,
+        400,
+        600
+      ],
+      "productImg": "Picture/ticketTypes/172_国宝III_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/172_国宝III_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/172_国宝III_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/172_国宝III_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/172_国宝III_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/172_国宝III_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/172_国宝III_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/172_国宝III_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/172_国宝III_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/172_国宝III_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/172_国宝III_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/172_国宝III_20yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/172_国宝III_20yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/172_国宝III_20yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/172_国宝III_20yuan/theme_04_award.png"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "666",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 15,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "新产品",
+      "description": "好运666！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现6标志“6”，即中得该标志下方所示的奖金；如果出现66标志“66”，即中得该标志下方所示奖金的两倍；如果出现666标志“666”，即中得该标志下方所示奖金的3倍。",
+      "awardGrade": [
+        250000,
+        6000,
+        1000,
+        600,
+        300,
+        100,
+        60,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        60,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/171_666_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/171_666_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/171_666_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/171_666_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/171_666_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/171_666_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/171_666_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/171_666_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/171_666_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/171_666_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/171_666_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/171_666_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/171_666_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/171_666_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/171_666_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/171_666_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/171_666_10yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "全民健身 我来啦II",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 13,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "动起来，更精彩！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现8.8标志“ 8.8 ”，即中得该标志下方所示的奖金。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        8800,
+        880,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/170_全民健身_我来啦II_10yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "全民健身 我来啦II",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 9,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "特色产品",
+      "description": "动起来，更精彩！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现8.8标志“ 8.8 ”，即中得该标志下方所示的奖金。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        8800,
+        880,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5,
+        10,
+        20,
+        30,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/169_全民健身_我来啦II_5yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "为中国力量加油 铿锵玫瑰",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 11,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "女足世界杯赛事主题，致敬中国女性力量。",
+      "introduce": "找中奖符号",
+      "gameRule": "主玩法：刮开覆盖膜，如果出现进球标志“ 进球 ”，即中得该标志下方所示的奖金；如果出现奖杯标志“ 奖杯 ”，即中得该标志下方所示奖金的两倍。\n幸运玩法：刮开覆盖膜，如果出现奖金标志，即中得该奖金。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        40,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/168_为中国力量加油_铿锵玫瑰_10yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "说走就走II",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "趣玩顶呱刮，陪你说走就走！",
+      "introduce": "找奖金符号",
+      "gameRule": "刮开覆盖膜，如果出现奖金标志，即中得该奖金；如果出现旅行箱标志“ 旅行箱 ”，即中得50元。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1600,
+        800,
+        400,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/167_说走就走II_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/167_说走就走II_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_05_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/167_说走就走II_10yuan/theme_06_a.png",
+          "backgroundB": "Picture/ticketTypes/167_说走就走II_10yuan/theme_06_covered.png",
+          "backgroundC": "Picture/ticketTypes/167_说走就走II_10yuan/theme_06_c.png",
+          "notAwardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_06_not_award.png",
+          "awardImg": "Picture/ticketTypes/167_说走就走II_10yuan/theme_06_award.png"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "倍儿爽",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 100000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "夏日欢聚，必须倍儿爽！",
+      "introduce": "找中奖符号+翻倍",
+      "gameRule": "刮开覆盖膜，如果出现爽标志“ 爽 ”，即中得该标志下方所示的奖金；如果出现倍数标志 “ 2倍 ”、“ 5倍 ”、“ 10倍 ”，即中得该标志下方所示的奖金乘以该倍数。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        5000,
+        1000,
+        500,
+        100,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        50,
+        100,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/166_倍儿爽_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/166_倍儿爽_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/166_倍儿爽_10yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "统帅三军",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "三国英雄，统帅三军！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现兵书标志“ 兵书 ”，即中得该标志下方所示的奖金；如果出现虎符标志“ 虎符 ”，即中得该标志下方所示奖金的两倍；如果出现胜标志“ 胜 ”，即中得该标志下方所示奖金的5倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        600,
+        300,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        300
+      ],
+      "productImg": "Picture/ticketTypes/165_统帅三军_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/165_统帅三军_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/165_统帅三军_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/165_统帅三军_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/165_统帅三军_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/165_统帅三军_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/165_统帅三军_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/165_统帅三军_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/165_统帅三军_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/165_统帅三军_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/165_统帅三军_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/165_统帅三军_20yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "火凤凰",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 26,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "凤舞长空，呈祥献瑞！",
+      "introduce": "找奖金符号+数字匹配",
+      "gameRule": "幸运游戏：刮开覆盖膜，如果出现金额标志，即中得该金额。\n主游戏：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码相同，即中得该号码下方所示的金额；如果你的号码中任意一个号码与翻倍号码相同，即中得该号码下方所示金额的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30,
+        50,
+        100,
+        400,
+        600,
+        1000
+      ],
+      "productImg": "Picture/ticketTypes/163_火凤凰_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/163_火凤凰_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/163_火凤凰_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/163_火凤凰_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/163_火凤凰_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/163_火凤凰_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/163_火凤凰_30yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "体育科普 即刻出彩",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "运动就要，即刻出彩！",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现出彩标志“出彩 ”，即中得该标志下方所示的金额；如果出现倍数标志 “ 2倍”、“ 5倍”，即中得该标志下方所示的金额乘以该倍数。中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_05_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_06_a.png",
+          "backgroundB": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_06_covered.png",
+          "backgroundC": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_06_c.png",
+          "notAwardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_06_not_award.png",
+          "awardImg": "Picture/ticketTypes/164_体育科普_即刻出彩_10yuan/theme_06_award.png"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "超级加倍II",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 200000,
+      "chance": 8,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "畅销产品",
+      "description": "超级加倍II，强势回归！",
+      "introduce": "找中奖符号+通吃",
+      "gameRule": "刮开覆盖膜，如果出现倍数标志“1倍”、“2倍”、“5倍”、“10倍”、“20倍”，即中得该标志下方所示的金额乘以该倍数；如果在“全中”区出现赢标志“赢”，即中得刮开区内所示的8个金额之和。中奖奖金兼中兼得。",
+      "awardGrade": [
+        200000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5,
+        10,
+        20,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/156_超级加倍II_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/156_超级加倍II_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/156_超级加倍II_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/156_超级加倍II_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/156_超级加倍II_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/156_超级加倍II_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/156_超级加倍II_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "超级加倍II",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 500000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "超级加倍II，强势回归！",
+      "introduce": "找中奖符号+通吃",
+      "gameRule": "刮开覆盖膜，如果出现倍数标志“1倍”、“2倍”、“5倍”、“10倍”、“20倍”、“50倍”，即中得该标志下方所示的金额乘以该倍数；如果在“全中”区出现赢标志“赢”，即中得刮开区内所示的10个金额之和。中奖奖金兼中兼得。",
+      "awardGrade": [
+        500000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/155_超级加倍II_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/155_超级加倍II_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/155_超级加倍II_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/155_超级加倍II_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/155_超级加倍II_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/155_超级加倍II_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/155_超级加倍II_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "超级加倍II",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "超级加倍II，强势回归！",
+      "introduce": "找中奖符号+通吃",
+      "gameRule": "刮开覆盖膜，如果出现倍数标志“1倍”、“2倍”、“5倍”、“10倍”、“20倍”、“50倍”、“100倍”，即中得该标志下方所示的金额乘以该倍数；如果在“全中”区出现赢标志“赢”，即中得刮开区内所示的20个金额之和。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/154_超级加倍II_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/154_超级加倍II_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/154_超级加倍II_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/154_超级加倍II_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/154_超级加倍II_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/154_超级加倍II_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/154_超级加倍II_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "超级加倍II",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 34,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "超级加倍II，强势回归！",
+      "introduce": "找奖金符号+找中奖符号+通吃",
+      "gameRule": "游戏一：刮开覆盖膜，如果出现“ ¥100”标志，即中得100元。\n游戏二：刮开覆盖膜，如果出现“ ¥200”标志，即中得200元。\n游戏三：刮开覆盖膜，如果出现“¥500 ”标志，即中得500元。\n游戏四：刮开覆盖膜，如果出现“¥1,000 ”标志，即中得1,000元。\n游戏五：刮开覆盖膜，如果出现倍数标志“1倍”、“2倍”、“5倍”、“10倍”、“20倍”、“50倍”、“100倍”、“200倍”，即中得该标志下方所示的金额乘以该倍数；如果在“全中”区出现赢标志“赢”，即中得游戏五刮开区内所示的30个金额之和。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        500000,
+        100000,
+        10000,
+        1000,
+        800,
+        500,
+        200,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        50,
+        100,
+        150,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/153_超级加倍II_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/153_超级加倍II_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/153_超级加倍II_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/153_超级加倍II_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/153_超级加倍II_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/153_超级加倍II_50yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/153_超级加倍II_50yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "我爱中国Ⅱ",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 11,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "刮“我爱中国”，颂爱国之心！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "游戏规则：\n幸运游戏：刮开幸运游戏覆盖膜，如果出现金额标志，即中得该金额。\n主游戏：刮开覆盖膜，如果出现五角星标志，即中得该标志下方所示的金额；如果出现爱心标志，即中得该标志下方所示金额的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        600,
+        300,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        300
+      ],
+      "productImg": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/product.png",
+      "backImg": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/149_我爱中国Ⅱ_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "说走就走",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 100000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 7,
+      "tag": "特色产品",
+      "description": "一张可以玩的“登机牌”！",
+      "introduce": "找奖金符号+数字匹配",
+      "gameRule": "游戏规则：\n游戏一：刮开覆盖膜，如果出现“￥20”标志，即中得20元。\n游戏二：刮开覆盖膜，如果出现“￥100”标志，即中得100元。\n游戏三：刮开覆盖膜，如果出现“￥50”标志，即中得50元。\n游戏四：刮开覆盖膜，如果出现“￥200”标志，即中得200元。\n游戏五：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码相同，即中得该号码下方所示的金额；如果出现旅行箱标志，即中得该标志下方所示金额的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        50,
+        100,
+        200,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/147_说走就走_10yuan/product.png",
+      "backImg": "Picture/ticketTypes/147_说走就走_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_05_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/147_说走就走_10yuan/theme_06_a.png",
+          "backgroundB": "Picture/ticketTypes/147_说走就走_10yuan/theme_06_covered.png",
+          "backgroundC": "Picture/ticketTypes/147_说走就走_10yuan/theme_06_c.png",
+          "notAwardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_06_not_award.png",
+          "awardImg": "Picture/ticketTypes/147_说走就走_10yuan/theme_06_award.png"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "棋王",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 13,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "“棋王”出，胜局定！",
+      "introduce": "找奖金符号+找中奖符号",
+      "gameRule": "游戏规则：\n幸运游戏：刮开幸运游戏覆盖膜，如果出现金额标志，即中得该金额。\n主游戏：刮开覆盖膜，如果出现将军标志，即中得该标志下方所示的金额；如果出现胜标志，即中得该标志下方所示金额的两倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/143_棋王_10yuan/product.png",
+      "backImg": "Picture/ticketTypes/143_棋王_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/143_棋王_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/143_棋王_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/143_棋王_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/143_棋王_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/143_棋王_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/143_棋王_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/143_棋王_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/143_棋王_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/143_棋王_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/143_棋王_10yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/143_棋王_10yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/143_棋王_10yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/143_棋王_10yuan/theme_04_award.png"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "新速度新高度",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 29,
+      "layout": 1,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "新时代，新速度，新高度",
+      "introduce": "刮奖金符号和匹配中奖数字。",
+      "gameRule": "游戏一：刮开覆盖膜如果出现金额标志即中得该金额。\n游戏二：刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码右方所示的奖金金额。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        5000,
+        700,
+        400,
+        200,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30,
+        50,
+        100,
+        200,
+        400,
+        700,
+        5000,
+        10000
+      ],
+      "productImg": "Picture/ticketTypes/076_新速度新高度_30yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/076_新速度新高度_30yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/076_新速度新高度_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/076_新速度新高度_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/076_新速度新高度_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/076_新速度新高度_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/076_新速度新高度_30yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "火星计划",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "乐小星邀你共探神秘火星 共展中国航天梦想",
+      "introduce": "刮三个相同奖金符号和匹配中奖数字",
+      "gameRule": "游戏一：刮开覆盖膜，如果出现三个相同的金额标志，即中得该单一金额。\n游戏二：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码相同，即中得该号码下方所示的金额。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/118_火星计划_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/118_火星计划_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/118_火星计划_10yuan/theme_01_a.jpg",
+          "backgroundB": "Picture/ticketTypes/118_火星计划_10yuan/theme_01_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/118_火星计划_10yuan/theme_01_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/118_火星计划_10yuan/theme_02_a.jpg",
+          "backgroundB": "Picture/ticketTypes/118_火星计划_10yuan/theme_02_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/118_火星计划_10yuan/theme_02_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/118_火星计划_10yuan/theme_03_a.jpg",
+          "backgroundB": "Picture/ticketTypes/118_火星计划_10yuan/theme_03_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/118_火星计划_10yuan/theme_03_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/118_火星计划_10yuan/theme_03_award.png"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "好彩头",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "鸿运当头 就刮好彩头",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现钱袋标志，即中得该标志下方所示的金额；如果出现金条标志，即中得该标志下方所示金额的5倍；如果出现元宝标志，即中得该标志下方所示金额的10倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        5000,
+        1000,
+        500,
+        150,
+        60,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        60,
+        150,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/126_好彩头_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/126_好彩头_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/126_好彩头_20yuan/theme_01_a.jpg",
+          "backgroundB": "Picture/ticketTypes/126_好彩头_20yuan/theme_01_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/126_好彩头_20yuan/theme_01_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/126_好彩头_20yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/126_好彩头_20yuan/theme_01_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/126_好彩头_20yuan/theme_02_a.jpg",
+          "backgroundB": "Picture/ticketTypes/126_好彩头_20yuan/theme_02_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/126_好彩头_20yuan/theme_02_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/126_好彩头_20yuan/theme_02_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/126_好彩头_20yuan/theme_02_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "好彩头",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "鸿运当头 就刮好彩头",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现钱袋标志，即中得该标志下方所示的金额；如果出现金条标志，即中得该标志下方所示金额的5倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        5000,
+        1000,
+        500,
+        150,
+        60,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        60,
+        150,
+        500
+      ],
+      "productImg": "Picture/ticketTypes/125_好彩头_10yuan/product.png",
+      "backImg": "Picture/ticketTypes/125_好彩头_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/125_好彩头_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/125_好彩头_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/125_好彩头_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/125_好彩头_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/125_好彩头_10yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/125_好彩头_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/125_好彩头_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/125_好彩头_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/125_好彩头_10yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/125_好彩头_10yuan/theme_02_award.png"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "五虎将",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "五虎上将 好运势不可挡",
+      "introduce": "找中奖符号",
+      "gameRule": "刮开覆盖膜，如果出现5个中奖标志中的任意一个标志，即中得该标志下方所示的金额。中奖奖金兼中兼得。中奖标志为“青龙偃月刀”、“ 丈八蛇矛”、“青釭剑”、“虎头湛金枪”、“铁胎弓”",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        300,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/124_五虎将_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/124_五虎将_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/124_五虎将_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/124_五虎将_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/124_五虎将_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/124_五虎将_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/124_五虎将_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/124_五虎将_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/124_五虎将_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/124_五虎将_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/124_五虎将_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/124_五虎将_20yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/124_五虎将_20yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/124_五虎将_20yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_04_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/124_五虎将_20yuan/theme_05_a.png",
+          "backgroundB": "Picture/ticketTypes/124_五虎将_20yuan/theme_05_covered.png",
+          "backgroundC": "Picture/ticketTypes/124_五虎将_20yuan/theme_05_c.png",
+          "notAwardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_05_not_award.png",
+          "awardImg": "Picture/ticketTypes/124_五虎将_20yuan/theme_05_award.png"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "红红火火",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "红红火火书写美好生活！",
+      "introduce": "找奖金符号+数字匹配",
+      "gameRule": "游戏一：刮开覆盖膜，如果出现“￥50 ”标志，即中得50元；\n游戏二：刮开覆盖膜，如果出现“￥100 ”标志，即中得100元。\n游戏三：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的奖金金额；如果出现倍数标志“2倍”、“5倍”、“10倍”、“20倍”、“50倍”，即中得该标志下方所示的奖金金额乘以该倍数。\n中奖奖金兼中兼得。 ",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        600,
+        400,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        50,
+        100,
+        400,
+        600
+      ],
+      "productImg": "Picture/ticketTypes/137_红红火火_20yuan/product.png",
+      "backImg": "Picture/ticketTypes/137_红红火火_20yuan/back.png",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/137_红红火火_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/137_红红火火_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/137_红红火火_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/137_红红火火_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/137_红红火火_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "国宝",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 18,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "国宝招财，公益有爱",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜如果出现“国宝”标志即中得该标志下方所示的金额；如果出现“顶呱刮”标志即中得该标志下方所示金额的5倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        10000,
+        3000,
+        600,
+        400,
+        100,
+        60,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        20,
+        30,
+        60,
+        100,
+        400
+      ],
+      "productImg": "Picture/ticketTypes/055_国宝_20yuan/product.png",
+      "backImg": "Picture/ticketTypes/055_国宝_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_01_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_02_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_02_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_03_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_03_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_04_a.jpg",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_04_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_04_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_04_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_04_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_05_a.jpg",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_05_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_05_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_05_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_05_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/055_国宝_20yuan/theme_06_a.jpg",
+          "backgroundB": "Picture/ticketTypes/055_国宝_20yuan/theme_06_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/055_国宝_20yuan/theme_06_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_06_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/055_国宝_20yuan/theme_06_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "万里长城",
+      "money": 30,
+      "faceValue": "30元",
+      "maxAward": 1000000,
+      "chance": 22,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "特色产品",
+      "description": "刮“万里长城”，感受中国文化！",
+      "introduce": "找中奖符号+多同+数字匹配",
+      "gameRule": "游戏规则：\n游戏一：刮开覆盖膜，如果出现龙标志，即中得该标志下方所示的金额。\n游戏二：刮开覆盖膜，如果出现3个相同的金额标志，即中得该单一金额；如果出现“￥10,000 ”标志，即中得1万元。\n游戏三：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码之一相同，即中得该号码下方所示的金额；如果出现长城标志，即中得该标志下方所示金额的5倍。\n中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        5000,
+        800,
+        500,
+        300,
+        100,
+        50,
+        30
+      ],
+      "awardSampleMoney": [
+        30,
+        50,
+        100,
+        300,
+        500,
+        800
+      ],
+      "productImg": "Picture/ticketTypes/148_万里长城_30yuan/product.png",
+      "backImg": "Picture/ticketTypes/148_万里长城_30yuan/back.png",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/148_万里长城_30yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/148_万里长城_30yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/148_万里长城_30yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/148_万里长城_30yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/148_万里长城_30yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "中国红20元",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 21,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "“中国红”红遍中国",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码下方所示的金额；如果出现“红”标志即中得该标志下方所示金额的2倍；如果出现“灯笼”标志即中得该标志下方所示金额的5倍；如果出现“中国结”标志即中得刮开区内所示的20个金额之和。如果在幸运奖区出现金额标志即中得该金额。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        5000,
+        1000,
+        500,
+        200,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        500,
+        50,
+        20
+      ],
+      "productImg": "Picture/ticketTypes/018_中国红20元_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/018_中国红20元_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/018_中国红20元_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/018_中国红20元_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/018_中国红20元_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/018_中国红20元_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/018_中国红20元_20yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "中国红10元",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 13,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "“中国红”红遍中国",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码下方所示的金额；如果出现“红”标志即中得该标志下方所示金额的2倍；如果出现“灯笼”标志即中得该标志下方所示金额的5倍。如果在幸运奖区出现金额标志即中得该金额。中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        200,
+        100,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/019_中国红10元_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/019_中国红10元_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/019_中国红10元_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/019_中国红10元_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/019_中国红10元_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/019_中国红10元_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/019_中国红10元_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "中国红5元",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 9,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "经典产品",
+      "description": "“中国红”红遍中国",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码下方所示的金额；如果出现“红”标志即中得该标志下方所示金额的2倍。如果在幸运奖区出现金额标志即中得该金额。中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        500,
+        100,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/020_中国红5元_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/020_中国红5元_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/020_中国红5元_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/020_中国红5元_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/020_中国红5元_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/020_中国红5元_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/020_中国红5元_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "中国龙",
+      "money": 50,
+      "faceValue": "50元",
+      "maxAward": 1000000,
+      "chance": 39,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "畅销产品",
+      "description": "龙的传人就要刮龙票",
+      "introduce": "刮奖金符号和匹配中奖数字。",
+      "gameRule": "游戏一：刮开覆盖膜，如果出现“￥100”标志，即中得100元；\n游戏二：刮开覆盖膜，如果出现“￥150”标志，即中得150元；\n游戏三：刮开覆盖膜，如果出现“￥600”标志，即中得600元；\n游戏四：刮开覆盖膜，如果出现“￥800”标志，即中得800元。\n游戏五：刮开覆盖膜，如果你的号码中任意一个号码与中奖号码相同，即中得该号码下方所示的金额；\n如果你的号码中任意一个号码与翻倍号码相同，即中得该号码下方所示金额的2倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        800,
+        600,
+        150,
+        100,
+        50
+      ],
+      "awardSampleMoney": [
+        100,
+        600,
+        800
+      ],
+      "productImg": "Picture/ticketTypes/105_中国龙_50yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/105_中国龙_50yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/105_中国龙_50yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/105_中国龙_50yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/105_中国龙_50yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/105_中国龙_50yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/105_中国龙_50yuan/theme_01_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "锦鲤",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 8,
+      "layout": 1,
+      "tpl": 1,
+      "tag": "特色产品",
+      "description": "锦鲤附体，好运随你",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜，如果出现“锦鲤”标志，即中得该标志下方所示的金额。中奖奖金兼中兼得。",
+      "awardGrade": [
+        100000,
+        1000,
+        500,
+        100,
+        50,
+        30,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        5,
+        10,
+        20,
+        30,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/114_锦鲤_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/114_锦鲤_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/114_锦鲤_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/114_锦鲤_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/114_锦鲤_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/114_锦鲤_5yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/114_锦鲤_5yuan/theme_01_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "十倍幸运",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 10,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "十倍幸运，精彩十倍",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "中奖奖金兼中兼得！刮开覆盖膜如果在任意一场游戏中的任意号码与中奖号码相同即中得该场游戏右方所示的金额；如果出现“双鱼”标志即中得该场游戏右方所示金额的10倍。",
+      "awardGrade": [
+        250000,
+        5000,
+        1600,
+        800,
+        400,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/006_十倍幸运_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/006_十倍幸运_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/006_十倍幸运_10yuan/theme_01_a.jpg",
+          "backgroundB": "Picture/ticketTypes/006_十倍幸运_10yuan/theme_01_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/006_十倍幸运_10yuan/theme_01_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/006_十倍幸运_10yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/006_十倍幸运_10yuan/theme_01_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "麻辣6",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 8,
+      "layout": 1,
+      "tpl": 1,
+      "tag": "经典产品",
+      "description": "十足运气，“辣”手好戏",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与麻辣号码之一相同即中得该号码下方所示的金额；如果出现“辣椒”标志即中得该标志下方所示金额的6倍。中奖奖金兼中兼得。\n",
+      "awardGrade": [
+        100000,
+        1000,
+        600,
+        300,
+        100,
+        50,
+        40,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        100,
+        300,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/008_麻辣6_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/008_麻辣6_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/008_麻辣6_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/008_麻辣6_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/008_麻辣6_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/008_麻辣6_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/008_麻辣6_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "甜蜜蜜",
+      "money": 5,
+      "faceValue": "5元",
+      "maxAward": 100000,
+      "chance": 8,
+      "layout": 2,
+      "tpl": 1,
+      "tag": "经典产品",
+      "description": "体彩甜蜜蜜，把爱送给你",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "中奖奖金兼中兼得！刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码下方所示的金额；如果出现“糖果”标志即中得该标志下方所示的金额。",
+      "awardGrade": [
+        100000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        25,
+        20,
+        10,
+        5
+      ],
+      "awardSampleMoney": [
+        100,
+        50,
+        20
+      ],
+      "productImg": "Picture/ticketTypes/004_甜蜜蜜_5yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/004_甜蜜蜜_5yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/004_甜蜜蜜_5yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/004_甜蜜蜜_5yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/004_甜蜜蜜_5yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/004_甜蜜蜜_5yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/004_甜蜜蜜_5yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "锦鲤",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "锦鲤附体，好运随你",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜，如果出现“锦鲤”标志，即中得该标志下方所示的金额；如果出现“顶呱刮”标志，即中得该标志下方所示金额的3倍；如果出现“龙”标志，即中得该标志下方所示金额的10倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        100000,
+        10000,
+        1000,
+        500,
+        200,
+        100,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        30,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/109_锦鲤_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/109_锦鲤_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/109_锦鲤_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/109_锦鲤_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/109_锦鲤_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_01_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/109_锦鲤_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/109_锦鲤_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/109_锦鲤_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_02_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_02_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/109_锦鲤_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/109_锦鲤_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/109_锦鲤_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_03_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/109_锦鲤_20yuan/theme_03_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "锦鲤",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "锦鲤附体，好运随你",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜，如果出现“锦鲤”标志，即中得该标志下方所示的金额；如果出现“顶呱刮”标志，即中得该标志下方所示金额的3倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        1000,
+        500,
+        100,
+        50,
+        30,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        30,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/108_锦鲤_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/108_锦鲤_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/108_锦鲤_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/108_锦鲤_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/108_锦鲤_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_01_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/108_锦鲤_10yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/108_锦鲤_10yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/108_锦鲤_10yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_02_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_02_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/108_锦鲤_10yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/108_锦鲤_10yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/108_锦鲤_10yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_03_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/108_锦鲤_10yuan/theme_03_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "出7制胜",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 300000,
+      "chance": 16,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "出7制胜 势不可挡",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜如果出现\"7\"标志即中得该标志下方所示的金额；如果出现\"77\"标志即中得该标志下方所示金额的2倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        300000,
+        70000,
+        7000,
+        500,
+        200,
+        100,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        20,
+        50,
+        100,
+        200
+      ],
+      "productImg": "Picture/ticketTypes/086_出7制胜_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/086_出7制胜_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/086_出7制胜_10yuan/theme_01_a.jpg",
+          "backgroundB": "Picture/ticketTypes/086_出7制胜_10yuan/theme_01_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/086_出7制胜_10yuan/theme_01_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_01_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/086_出7制胜_10yuan/theme_02_a.jpg",
+          "backgroundB": "Picture/ticketTypes/086_出7制胜_10yuan/theme_02_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/086_出7制胜_10yuan/theme_02_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_02_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_02_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/086_出7制胜_10yuan/theme_03_a.jpg",
+          "backgroundB": "Picture/ticketTypes/086_出7制胜_10yuan/theme_03_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/086_出7制胜_10yuan/theme_03_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_03_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_03_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/086_出7制胜_10yuan/theme_04_a.jpg",
+          "backgroundB": "Picture/ticketTypes/086_出7制胜_10yuan/theme_04_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/086_出7制胜_10yuan/theme_04_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_04_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_04_award.jpg"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/086_出7制胜_10yuan/theme_05_a.jpg",
+          "backgroundB": "Picture/ticketTypes/086_出7制胜_10yuan/theme_05_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/086_出7制胜_10yuan/theme_05_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_05_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/086_出7制胜_10yuan/theme_05_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "三重钻石",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 1,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "三重钻石，无穷惊喜！",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码右方所示的金额；如果出现“三重钻石”标志即中得该标志右方所示金额的3倍。中奖奖金兼中兼得。\n",
+      "awardGrade": [
+        250000,
+        20000,
+        5000,
+        1000,
+        500,
+        250,
+        150,
+        100,
+        50,
+        20,
+        15,
+        10
+      ],
+      "awardSampleMoney": [
+        10,
+        15,
+        20,
+        50,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/007_三重钻石_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/007_三重钻石_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/007_三重钻石_10yuan/theme_01_a.jpg",
+          "backgroundB": "Picture/ticketTypes/007_三重钻石_10yuan/theme_01_covered.jpg",
+          "backgroundC": "Picture/ticketTypes/007_三重钻石_10yuan/theme_01_c.jpg",
+          "notAwardImg": "Picture/ticketTypes/007_三重钻石_10yuan/theme_01_not_award.jpg",
+          "awardImg": "Picture/ticketTypes/007_三重钻石_10yuan/theme_01_award.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "红宝石8",
+      "money": 10,
+      "faceValue": "10元",
+      "maxAward": 250000,
+      "chance": 12,
+      "layout": 1,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "拥有红宝石 好运带给你",
+      "introduce": "匹配中奖数字和刮中奖标志。",
+      "gameRule": "刮开覆盖膜如果你的号码中任意一个号码与中奖号码之一相同即中得该号码右方所示的金额；如果出现“八宝石”标志即中得该标志右方所示金额的8倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        250000,
+        10000,
+        2000,
+        800,
+        400,
+        100,
+        80,
+        50,
+        20,
+        10
+      ],
+      "awardSampleMoney": [
+        2000,
+        800,
+        100
+      ],
+      "productImg": "Picture/ticketTypes/002_红宝石8_10yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/002_红宝石8_10yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/002_红宝石8_10yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/002_红宝石8_10yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/002_红宝石8_10yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/002_红宝石8_10yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/002_红宝石8_10yuan/theme_01_award.png"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "7",
+      "money": 20,
+      "faceValue": "20元",
+      "maxAward": 1000000,
+      "chance": 20,
+      "layout": 2,
+      "tpl": 2,
+      "tag": "经典产品",
+      "description": "好运如7而至",
+      "introduce": "刮中奖符号。",
+      "gameRule": "刮开覆盖膜如果出现“7”标志即中得该标志下方所示的金额；如果出现“77”标志即中得该标志下方所示金额的2倍；如果出现“777”标志即中得该标志下方所示金额的3倍。中奖奖金兼中兼得。",
+      "awardGrade": [
+        1000000,
+        70000,
+        7000,
+        700,
+        300,
+        100,
+        70,
+        50,
+        30,
+        20
+      ],
+      "awardSampleMoney": [
+        70,
+        100,
+        50
+      ],
+      "productImg": "Picture/ticketTypes/039_7_20yuan/product.jpg",
+      "backImg": "Picture/ticketTypes/039_7_20yuan/back.jpg",
+      "themes": [
+        {
+          "backgroundA": "Picture/ticketTypes/039_7_20yuan/theme_01_a.png",
+          "backgroundB": "Picture/ticketTypes/039_7_20yuan/theme_01_covered.png",
+          "backgroundC": "Picture/ticketTypes/039_7_20yuan/theme_01_c.png",
+          "notAwardImg": "Picture/ticketTypes/039_7_20yuan/theme_01_not_award.png",
+          "awardImg": "Picture/ticketTypes/039_7_20yuan/theme_01_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/039_7_20yuan/theme_02_a.png",
+          "backgroundB": "Picture/ticketTypes/039_7_20yuan/theme_02_covered.png",
+          "backgroundC": "Picture/ticketTypes/039_7_20yuan/theme_02_c.png",
+          "notAwardImg": "Picture/ticketTypes/039_7_20yuan/theme_02_not_award.png",
+          "awardImg": "Picture/ticketTypes/039_7_20yuan/theme_02_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/039_7_20yuan/theme_03_a.png",
+          "backgroundB": "Picture/ticketTypes/039_7_20yuan/theme_03_covered.png",
+          "backgroundC": "Picture/ticketTypes/039_7_20yuan/theme_03_c.png",
+          "notAwardImg": "Picture/ticketTypes/039_7_20yuan/theme_03_not_award.png",
+          "awardImg": "Picture/ticketTypes/039_7_20yuan/theme_03_award.png"
+        },
+        {
+          "backgroundA": "Picture/ticketTypes/039_7_20yuan/theme_04_a.png",
+          "backgroundB": "Picture/ticketTypes/039_7_20yuan/theme_04_covered.png",
+          "backgroundC": "Picture/ticketTypes/039_7_20yuan/theme_04_c.png",
+          "notAwardImg": "Picture/ticketTypes/039_7_20yuan/theme_04_not_award.png",
+          "awardImg": "Picture/ticketTypes/039_7_20yuan/theme_04_award.png"
+        }
+      ]
+    }
+  ]
+}
