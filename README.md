@@ -1,5 +1,7 @@
 # Scratch Card Lottery Simulator
 
+![Scratch Card Lottery Simulator demo](docs/images/scratch-card-demo.png)
+
 A local scratch-card lottery simulator built with Python, Tkinter, Pygame, and
 Pillow. It includes account flow, ticket selection, generated ticket surfaces,
 scratch interaction, prize claiming, and focused tests for the core logic.
